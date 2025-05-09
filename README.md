@@ -1,6 +1,5 @@
 ・About this script.
-  This code is a script that automates the calculation of hash values using the certutil command, 
-  which is standard on Windows.
+  This is a script using the certutil command that comes standard with Windows.
 
 ・Caution
   First, please note that when you try to run this script in PowerShell, 
