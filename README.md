@@ -1,5 +1,6 @@
 ・About this script.
   This is a script using the certutil command that comes standard with Windows.
+  It will return the hash value of the file using certutil.
 
 ・Caution
   First, please note that when you try to run this script in PowerShell, 
